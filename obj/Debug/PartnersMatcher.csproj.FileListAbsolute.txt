@@ -1,0 +1,38 @@
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\EntityFramework.dll
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\MySql.Data.dll
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\EntityFramework.xml
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+D:\Projects\SearchEngine\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+C:\gal\PartnersMatcher\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\gal\PartnersMatcher\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\gal\PartnersMatcher\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+D:\Projects\PartnersMatcher\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe.config
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.exe
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\bin\Debug\PartnersMatcher.pdb
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.csprojResolveAssemblyReference.cache
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.exe
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\PartnersMatcher\obj\Debug\PartnersMatcher.pdb
