@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnersMatcher", "PartnersMatcher\PartnersMatcher.csproj", "{19DFB4AB-F7B0-4591-83F7-C41A00DF3268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{0D7A4497-58DA-4B82-A9F1-63D8A0C178D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DFB4AB-F7B0-4591-83F7-C41A00DF3268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DFB4AB-F7B0-4591-83F7-C41A00DF3268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DFB4AB-F7B0-4591-83F7-C41A00DF3268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DFB4AB-F7B0-4591-83F7-C41A00DF3268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7A4497-58DA-4B82-A9F1-63D8A0C178D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7A4497-58DA-4B82-A9F1-63D8A0C178D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7A4497-58DA-4B82-A9F1-63D8A0C178D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7A4497-58DA-4B82-A9F1-63D8A0C178D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
