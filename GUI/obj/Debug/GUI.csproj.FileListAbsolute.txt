@@ -1,0 +1,120 @@
+D:\Projects\SearchEngine\PartnersMatcher\GUI\bin\Debug\GUI.exe.config
+D:\Projects\SearchEngine\PartnersMatcher\GUI\bin\Debug\GUI.exe
+D:\Projects\SearchEngine\PartnersMatcher\GUI\bin\Debug\GUI.pdb
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\MainWindow.g.cs
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\newUser.g.cs
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\App.g.cs
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.cache
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.lref
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\MainWindow.baml
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\newUser.baml
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.g.resources
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.exe
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\GUI.pdb
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\searchWindow.g.cs
+D:\Projects\SearchEngine\PartnersMatcher\GUI\obj\Debug\searchWindow.baml
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\bin\Debug\GUI.exe.config
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.exe
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.pdb
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\bin\Debug\GUI.exe
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\bin\Debug\GUI.pdb
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.exe
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.pdb
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\MainWindow.g.cs
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\newUser.g.cs
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\searchWindow.g.cs
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\App.g.cs
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.cache
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.lref
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\MainWindow.baml
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\newUser.baml
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\searchWindow.baml
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.g.resources
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Projects\PartnersMatcher\PartnersMatcher\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.exe.config
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.exe
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.exe
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.exe
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.pdb
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\MainWindow.g.cs
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUser.g.cs
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\searchWindow.g.cs
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\App.g.cs
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.cache
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.lref
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\MainWindow.baml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUser.baml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\searchWindow.baml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.g.resources
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.dll
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.dll
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.xml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.xml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\Posts.baml
+D:\לימודים\ניתוח ועיצוב מערכות\עבודות\עבודה 3\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\Posts.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.exe.config
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.exe
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.pdb
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.exe
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\GUI.pdb
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.exe
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.dll
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.pdb
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.xml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\Posts.baml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUser.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\Posts.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\searchWindow.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\App.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\MainWindow.baml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUser.baml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\searchWindow.baml
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.g.resources
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUserLevel2.g.cs
+C:\Users\Gal\Desktop\PartnerMatcherWithGUI\PartnerMatcherWithGUI\PartnersMatcher\GUI\obj\Debug\newUserLevel2.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\GUI.exe.config
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.exe
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.pdb
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\GUI.exe
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\GUI.pdb
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.exe
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.dll
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\PartnersMatcher.pdb
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\Simplify.Resources.xml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\Posts.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\newUserLevel2.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\newUser.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\Posts.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\searchWindow.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\App.g.cs
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\MainWindow.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\newUserLevel2.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\newUser.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\searchWindow.baml
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.g.resources
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lior\Documents\ניתוח ועיצוב\עבודה 3 מעשי\PartnersMatcher\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
